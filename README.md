@@ -1,4 +1,4 @@
-# Talent Of Unity
+# Talent
 
 Stack:
 Pug, SCSS, Javascript, GSAP
